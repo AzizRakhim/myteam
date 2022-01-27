@@ -285,7 +285,7 @@ body {
 .deliver__item {
   display: flex;
   flex-direction: column;
-  padding-top: 36px;
+  padding-top: 46px;
   position: relative;
   background-image: url(../images/quotation-mark.svg);
   background-position: top;
