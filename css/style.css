@@ -770,10 +770,6 @@ hr {
 }
 
 .contact__input:focus::placeholder {
-  font-size: 12px;
-  position: relative;
-  top: -8px;
-  transition: all 0.5s ease;
   opacity: 1;
 }
 
