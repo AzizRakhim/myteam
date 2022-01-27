@@ -106,8 +106,8 @@ p {
 #main-page {
   background-repeat: no-repeat;
   background-image: url("../images/hero-bcimg-left.svg");
-  background-position: left;
   background-position-y: 38%;
+  background-position: left;
 }
 
 .main-page__inner {
@@ -125,7 +125,7 @@ p {
   font-size: 100px;
   line-height: 100px;
   width: 620px;
-  color: #ffffff;
+  color: #fff;
 }
 
 .main-page__title span {
