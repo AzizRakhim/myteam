@@ -583,7 +583,7 @@ hr {
   color: #012f34;
   margin-right: 320px;
   position: relative;
-  left: 63px;
+  left: 103px;
 }
 
 .start__link {
@@ -677,7 +677,7 @@ hr {
   font-size: 24px;
 }
 
-.social-media__text {
+.media__text {
   font-size: 15px;
   line-height: 25px;
   color: #fff;
