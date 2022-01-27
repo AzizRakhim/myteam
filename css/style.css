@@ -1,4 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Livvic:ital,wght@0,600;0,700;1,600&display=swap');
+
 body{
-    background-color: #fff;
+    background: #014e56;
     min-height: 100vh;
+    font-family: 'Livvic', sans-serif;
+    font-weight: 600;
 }
+
+.container{
+    width: 1150px;
+    padding: 0 20px;
+}
+
+
+
