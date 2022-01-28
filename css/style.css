@@ -86,6 +86,9 @@ body {
 
 /* HEADER END */
 /* MAIN-PAGE START */
+main {
+  flex-grow: 1;
+}
 
 #main-page {
   background-color: #014e56;
